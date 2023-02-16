@@ -9,8 +9,8 @@ Also in simulation, in Line follower mode, after changing the readings of any of
 
 If you want to use switches instead of serial monitor in switching between the modes, it runs perfectly
 
-@AbdullahElmasry
-@Shimaa-esmat
-@MustafaAshraf98
+
 ## Authors
-	 
+- [@AbdullahElmasry](https://github.com/AbdullahElmasry)
+- [@Shimaa-esmat](https://github.com/Shimaa-esmat)
+- [@MustafaAshraf98](https://github.com/MustafaAshraf98)	 
