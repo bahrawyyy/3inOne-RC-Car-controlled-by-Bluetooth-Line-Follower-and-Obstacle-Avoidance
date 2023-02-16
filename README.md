@@ -1,4 +1,4 @@
-* Multi purpose robot that features :
+# Multi purpose robot that features :
 	- Manual mode 
 	- Line follower - 'W' 
 	- Obstacle avoidance - 'U'
