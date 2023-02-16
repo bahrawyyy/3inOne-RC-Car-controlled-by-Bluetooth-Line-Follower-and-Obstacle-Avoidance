@@ -1,4 +1,4 @@
-# Multi purpose robot car that features :
+# Multi mode robot car that features :
 	- Manual mode 
 	- Line follower - 'W' 
 	- Obstacle avoidance - 'U'
