@@ -13,4 +13,5 @@ If you want to use switches instead of serial monitor in switching between the m
 ## Authors
 - [@AbdullahElmasry](https://github.com/AbdullahElmasry)
 - [@Shimaa-esmat](https://github.com/Shimaa-esmat)
-- [@MustafaAshraf98](https://github.com/MustafaAshraf98)	 
+- [@MustafaAshraf98](https://github.com/MustafaAshraf98)
+- [@MuhammedAreff](https://github.com/MuhammedAreff)
